@@ -4,7 +4,9 @@ Proyecto desarollado por mí persona con la finalidad de practicar y comprobar m
 
 ## Motivación ⌨️
 
-El proyecto tiene por objetivo ayudar al usuario a elegir determinadas cantidad de numeros al azar, ya sea jugar a la loteria o determinar probabilidades entre otras.  
+El proyecto tiene por objetivo ayudar al usuario a elegir determinadas cantidad de numeros al azar, ya sea jugar a la loteria o determinar probabilidades entre otras.
+
+La App cuenta con un pequeño navegador web incorporado que necesita de la biblioteca QWebEngine que debe ser instalado por separado como se instruye abajo.
 
 ## Comenzando 🚀
 
@@ -17,6 +19,7 @@ _Que cosas necesitas para instalar el software y como instalarlas_
 ```
 Python 3 
 PyQt5
+QWebEngineView
 ```
 
 ### Instalación 🔧
@@ -24,9 +27,11 @@ PyQt5
 ```
 On Linux : 1 -> apt install python3
            2 -> pip3 install pyqt5
+           3 -> pip3 install PyQtWebEngine
            
 On Windows : 1 -> Baja la ultima versión de python en https://www.python.org/downloads/
-             2 -> Abra el CMD y en el comando pip3 install pyqt5
+             2 -> Abra el CMD y entra el comando pip3 install pyqt5
+             3 -> Abra el CMD y entra el comando pip3 install PyQtWebEngine
 ```
 
 _Y repite el siguiente comando en tu CMD para ejecutar el proyecto caso no tenga algun IDE instalado_
