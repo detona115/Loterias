@@ -50,7 +50,7 @@ python3 main.py
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia (LGPL)
 
 ---
 ⌨️ con ❤️ por [Andy](https://github.com/detona115) 😊
