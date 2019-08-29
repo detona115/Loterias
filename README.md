@@ -35,10 +35,6 @@ _Y repite el siguiente comando en tu CMD para ejecutar el proyecto caso no tenga
 python3 main.py
 ```
 
-## Deployment 📦
-
-_Agrega notas adicionales sobre como hacer deploy_
-
 ## Construido con 🛠️
 
 * [LiClipse](https://www.liclipse.com/) - Mí IDE favorito
