@@ -1,6 +1,6 @@
 # LOTERIAS
 
-Proyecto desarollado por mí persona con la finalidad de practicar y comprobar mis conocimientos de programación en python
+Proyecto desarollado por mí persona en python
 
 ## Motivación ⌨️
 
